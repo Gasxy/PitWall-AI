@@ -6,8 +6,8 @@ The goal is to create a tool that allows users to ask complex questions about F1
 
 ## Key Features
 
--Natural Language Interface: Ask questions in plain English, and the AI will understand your intent.
--Deep Telemetry Analysis: Access and process detailed data including speed, throttle, brake, steering, gear, and GPS.
--Dynamic Visualizations: Automatically generate plots, track maps, and comparison charts using Matplotlib, Seaborn, and Plotly.
--AI-Powered Insights: Use Gemini to synthesize data and generate insightful, human-like explanations of performance, strategy, and race events.
+-Natural Language Interface: Ask questions in plain English, and the AI will understand your intent.  
+-Deep Telemetry Analysis: Access and process detailed data including speed, throttle, brake, steering, gear, and GPS.  
+-Dynamic Visualizations: Automatically generate plots, track maps, and comparison charts using Matplotlib, Seaborn, and Plotly.  
+-AI-Powered Insights: Use Gemini to synthesize data and generate insightful, human-like explanations of performance, strategy, and race events.  
 -Comparative Analysis: Easily compare multiple drivers, laps, or stints within a session or across different races.
